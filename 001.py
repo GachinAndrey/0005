@@ -54,3 +54,4 @@ else:
     print(f'\nПредприятия, чья прибыль больше среднего:')
     for ent in more:
         print(f'Предприятие "{ent.name}" с прибылью {ent.year: .2f}')
+
